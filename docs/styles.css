@@ -1,0 +1,18 @@
+/* Light touches on top of the cosmo theme */
+h2 {
+  margin-top: 2rem;
+  padding-bottom: 0.25rem;
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.about-entity .about-link {
+  border-radius: 999px;
+}
+
+table {
+  font-size: 0.95rem;
+}
+
+ol li {
+  margin-bottom: 0.75rem;
+}

@@ -1,0 +1,30 @@
+---
+title: "Publications"
+---
+
+## Peer-Reviewed Articles
+
+1. Sasnal M, Jensen RM, **Mai UT**, Gold CA, Nassar AK, Korndorffer JR, Morris AM, Miller-Kuhlmann RK. Implementation and evaluation of a communication coaching program: a CFIR-informed qualitative analysis mapped to a logic model. *BMC Medical Education* (under revision).
+
+2. Fischer AS, Fenning R, Robb JM, Slater A, **Mai U**, Lam T, Cruz JP, Billimek J, Shapiro J, Nguyen T, Haq C. Impact of moral distress on burn-out: a cross-sectional survey of front-line family physicians during the initial wave of the COVID-19 pandemic. *BMJ Open*. 2025. [doi:10.1136/bmjopen-2024-089980](https://doi.org/10.1136/bmjopen-2024-089980)
+
+3. Sasnal M, Jensen RM, **Mai UT**, Gold CA, Nassar AK, Korndorffer JR, Morris AM, Miller-Kuhlmann RK. Strategies to foster stakeholder engagement in residency coaching: a CFIR-informed qualitative study across diverse stakeholder groups. *Medical Education Online*. 2024;29(1). [doi:10.1080/10872981.2024.2407656](https://doi.org/10.1080/10872981.2024.2407656)
+
+4. Kimura C, Liu Y, Crowder SE, Arbaugh C, **Mai UT**, Shankar K, Shelton A, Visser B, Kin C. Barriers and facilitators of surgical prehabilitation adherence from the patient perspective: a mixed method study. *Journal of Gastrointestinal Surgery*. 2023;27(11). [doi:10.1007/s11605-023-05857-9](https://doi.org/10.1007/s11605-023-05857-9)
+
+5. Fischer A, Shapiro J, Nguyen T, Meckler G, Lam T, **Mai U**, Fenning R, Cruz JP, Haq C. Views from the trenches: California family physicians' challenges and resilience factors while providing patient care during the initial wave of COVID-19. *Qualitative Research in Medicine & Healthcare*. 2022;6(2). [doi:10.4081/qrmh.2022.10296](https://doi.org/10.4081/qrmh.2022.10296)
+
+6. Coulon PG, Roy S, Prakash S, Srivastava R, Dhanushkodi N, Salazar S, Amezquita C, Nguyen L, Vahed H, Nguyen A, Warsi W, Ye C, Carlos-Cruz E, **Mai U**, BenMohamed L. Up-regulation of multiple CD8+ T cell exhaustion pathways is associated with recurrent ocular herpes simplex virus type 1 infection. *The Journal of Immunology*. 2020;205(2). [doi:10.4049/jimmunol.2000131](https://doi.org/10.4049/jimmunol.2000131)
+
+7. Srivastava R, Coulon PG, Prakash S, Dhanushkodi N, Roy S, Nguyen A, Alomari N, **Mai U**, Amezquita C, Ye C, Maillere B, BenMohamed L. Human epitopes identified from herpes simplex virus tegument protein VP11/12 (UL46) recall multi-functional effector memory CD4+ TEM cells in asymptomatic individuals and protect from ocular herpes infection and disease in "humanized" HLA-DR transgenic mice. *Journal of Virology*. 2020;94(7). [doi:10.1128/JVI.01991-19](https://doi.org/10.1128/JVI.01991-19)
+
+8. BenMohamed L, Coulon PG, Dhanushkodi N, Prakash S, Srivastava R, Roy S, Alomari N, Nguyen A, Warsi W, Ye C, Carlos-Cruz E, **Mai U**, Cruel A, Ekmekciyan K, Pearlman E. NLRP3, NLRP12 and IFI16 inflammasomes induction and caspase-1 activation triggered by virulent HSV-1 strains are associated with severe corneal inflammatory herpetic disease. *Frontiers in Immunology*. 2019;10:1631. [doi:10.3389/fimmu.2019.01631](https://doi.org/10.3389/fimmu.2019.01631)
+
+## Selected Presentations
+
+- **Mai UT**, Hanft-Robert S, Mösko M. *Perceptions of Mental Wellness and Mental Health Services Among Vietnamese Migrants.* Amsterdam Center for Health Communication Symposium, Amsterdam, Netherlands, November 2023.
+- **Mai UT**, Kimura CS, Shankar K, Shelton A, Visser B, Kin C. *Frailty and Adherence to the Physical Activity Component of Home-Based Prehabilitation in Gastrointestinal Surgery Patients.* Pacific Coast Surgical Association 94th Annual Meeting, Monterey, California, February 2023.
+- **Mai UT**, Dang N, Soroudi T, Lau V. *Bridging Generations During a Pandemic: The Intergenerational Photo-Narrative Project.* 12th Annual Western Michigan University Medical Humanities Conference (online), September 2022.
+- Fischer A, Robb J, **Mai UT**, et al. *Moral Distress and Burnout Among California Family Medicine Physicians Working at the Frontlines During the COVID-19 Pandemic.* American Public Health Association Annual Meeting (online), October 2021.
+- Lo KW, Lam T, Rasmussen A, et al. (including **Mai U**). *Capturing California Family Physicians' Experiences During the Early Phases of the COVID-19 Pandemic.* American Academy of Family Physicians (online), July 2021; Society of Teachers of Family Medicine (online), May 2021.
+- **Mai UT**, Vieira V. *Assessing the Effect of Exposure to Perfluoroalkyl Substances on Ovarian Cancer Survival.* UC Irvine Undergraduate Research Opportunities Program Symposium (online), May 2021.

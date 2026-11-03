@@ -1,0 +1,60 @@
+---
+title: "Research & Experience"
+---
+
+## Current Research at Case Western Reserve University
+
+**Evaluating community–health system care coordination.**
+The Better Health Pathways HUB coordinates community health workers across Northeast Ohio to help clients meet health-related social needs such as housing, food, and transportation. My work combines interviews with community health workers, care coordination agencies, and health system partners with linked HUB and health care utilization data. The goal is to understand what makes this model work and last, and whether completing social-needs pathways is associated with better health outcomes.
+
+**CONNECT-Pantries.**
+An implementation science project with the Prevention Research Center for Healthy Neighborhoods. We analyze focus group data to describe how the Ask-Advise-Connect tobacco cessation intervention is adapted for food pantries, guided by the RE-AIM and FRAME-IS frameworks.
+
+**Persistent poverty and health.**
+A national analysis in R comparing CDC PLACES health outcomes between persistent-poverty and other census tracts and counties.
+
+## Previous Research
+
+**Visiting Researcher (Fulbright)**, Department of Medical Psychology, Universitätsklinikum Hamburg-Eppendorf, Germany *(2023 – 2024)*
+
+- Led an independent project on how refugees and asylum seekers perceive mental health care services, in the Migration and Psychosocial Health research group
+- Developed an interview guide and contributed to data analysis for a study on multilingualism and migrant mental health
+- Translated educational materials on mental health services for Vietnamese migrants across the European Union
+
+**Social Science Research Professional**, Stanford-Surgery Policy Improvement Research & Education Center (S-SPIRE), Stanford School of Medicine *(2022 – 2023)*
+
+- Conducted surgical health policy, services, and outcomes research
+- Enrolled and coached patients in a prehabilitation study, and examined how frailty relates to prehabilitation adherence among colorectal surgery patients
+- Managed and analyzed clinical trial data and presented findings to research teams
+
+**Research Assistant**, Department of Family Medicine, UC Irvine *(2020 – 2022)*
+
+- Used mixed methods to study how COVID-19 affected the mental health of family physicians
+- Trained 14 undergraduate and medical students in semi-structured interviewing
+- Presented at APHA and AAFP; work published in *BMJ Open* and *Qualitative Research in Medicine & Healthcare*
+
+**Undergraduate Researcher**, Department of Population Health and Disease Prevention, UC Irvine *(2020 – 2021)*
+
+- Honors thesis in spatial epidemiology: *Assessing the Effect of Exposure to Perfluoroalkyl Substances on Ovarian Cancer Survival*, using more than 11,700 patient records from the California Cancer Registry
+- Received the Program in Public Health's Excellence in Writing Award for the best written thesis and oral presentation
+
+**Research Assistant**, Cellular & Molecular Immunology Laboratory, UC Irvine *(2018 – 2020)*
+
+- Contributed to development of a herpes simplex virus vaccine and a pan-coronavirus SARS-CoV-2 vaccine
+- Co-authored three papers in *The Journal of Immunology*, *Journal of Virology*, and *Frontiers in Immunology*
+
+## Other Experience
+
+| Role | Organization | Years |
+|---|---|---|
+| Course Coordinator, *The Art of Doctoring* elective | UC Irvine School of Medicine | 2021 – 2022 |
+| Partner Relations Intern | Centers for Medicare & Medicaid Services | 2021 |
+| Research Intern | UC Irvine Center for Ethics and Morality | 2019 |
+
+## Leadership and Service
+
+- **Co-Founder and Editor-in-Chief, *The Scribe at UCI***, the first undergraduate medical humanities publication at UC Irvine
+- **President, Healing Through Humanities at UCI**, which ran a volunteer program with hospice patients and older adults and led the *Humans of Santa Ana* photo-narrative project
+- **Vice President, Liberty in North Korea Rescue Team**, which raised more than $6,000 for two refugee rescue missions
+- **Director-General, UC Irvine Model United Nations Conference Team**
+- **Volunteer, Global Service Scholars Program** (rural Nepal) and **Global Medical Brigades** (rural Ghana)

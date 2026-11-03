@@ -1,0 +1,40 @@
+project:
+  type: website
+  output-dir: docs          # GitHub Pages serves the site from this folder
+  render:                   # only these pages are published
+    - index.qmd
+    - research.qmd
+    - publications.qmd
+  resources:
+    - cv.pdf
+    - .nojekyll
+
+website:
+  title: "Uyen Mai"
+  description: "MD/PhD student at Case Western Reserve University working at the intersection of clinical medicine and population health."
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: research.qmd
+        text: Research & Experience
+      - href: publications.qmd
+        text: Publications
+      - href: cv.pdf
+        text: CV
+    right:
+      - icon: envelope
+        href: mailto:utm@case.edu
+        aria-label: Email
+      - icon: linkedin
+        href: https://www.linkedin.com/in/umai/
+        aria-label: LinkedIn
+  page-footer:
+    left: "© 2026 Uyen Mai"
+    right: "Built with [Quarto](https://quarto.org)"
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false

@@ -1,0 +1,153 @@
+---
+title: "Uyen Mai"
+format:
+  typst:
+    papersize: us-letter
+    margin:
+      x: 0.8in
+      y: 0.7in
+    fontsize: 10pt
+---
+
+Cleveland, OH · [utm@case.edu](mailto:utm@case.edu) · [linkedin.com/in/umai](https://www.linkedin.com/in/umai/)
+
+## Education
+
+**Case Western Reserve University School of Medicine**, Cleveland, OH *(July 2024 – present)*\
+Doctor of Medicine (expected 2032); Doctor of Philosophy (expected 2030)
+
+**University of California, Irvine**, Irvine, CA *(September 2017 – June 2021)*\
+Bachelor of Science in Public Health; Minors in International Studies and Philosophy\
+Honors in Public Health; GPA 3.77/4.0, *cum laude*
+
+## Honors and Achievements
+
+- **Fulbright Scholar** *(March 2022)*: Study/Research Award from the U.S. Fulbright competition to conduct an independent research project in Hamburg, Germany
+- **UCI Public Health Program Award – Excellence in Writing** *(June 2021)*: undergraduate public health student who best demonstrated the ability to communicate ideas clearly in writing and oral presentations
+- **Delta Omega Honorary Society** *(June 2021)*: inducted into the Delta Rho chapter of the Delta Omega Honorary Society in Public Health
+- **Chancellor's Award of Distinction** *(May 2021)*: one of 53 top students among 10,204 graduating students, for commitment to research, leadership, and service to UCI
+- **Dean's Honor List** *(Fall 2017 – June 2021)*: 3.5 GPA or higher in 10 of 12 quarters at UCI
+
+## Research Experience
+
+**Visiting Researcher**, Universitätsklinikum Hamburg-Eppendorf, Department of Medical Psychology, Hamburg, Germany *(March 2023 – January 2024)*
+
+- Conducted an independent project on perceptions of and attitudes toward mental health care services among refugees and asylum seekers, supervised by Dr. Mike-Oliver Mösko, head of the Migration and Psychosocial Health research group
+- Developed an interview guide and participated in data analysis for a study on multilingualism and the mental health of migrants
+- Translated educational materials on mental health services for Vietnamese migrants across the European Union
+
+**Social Science Research Professional 1**, Stanford School of Medicine, Department of Surgery, Palo Alto, CA *(March 2022 – February 2023)*
+
+- Conducted surgical health policy, services, and outcomes research at the Stanford-Surgery Policy Improvement Research & Education (S-SPIRE) Center
+- Enrolled and coached patients through a prehabilitation study; studied the correlation between frailty and adherence to prehabilitation among colorectal surgery patients
+- Managed and analyzed clinical trial data, and summarized and presented findings to research professionals in various settings
+
+**Research Assistant**, UCI Department of Family Medicine, Irvine, CA *(May 2020 – March 2022)*
+
+- Investigated the impact of COVID-19 on family physicians' mental health using mixed methods; surveyed and interviewed family physicians
+- Trained 14 undergraduate and medical students in semi-structured interviewing and prepared an interview protocol and script
+- Presented at the American Public Health Association (APHA) and American Academy of Family Physicians (AAFP) conferences; published a qualitative article in *Qualitative Research in Medicine & Healthcare*
+
+**Undergraduate Researcher**, UCI Department of Population Health and Disease Prevention, Irvine, CA *(July 2020 – June 2021)*
+
+- Conducted an independent spatial epidemiology project, "Assessing the Effect of Exposure to Perfluoroalkyl Substances on Ovarian Cancer Survival," using more than 11,700 patient records from the California Cancer Registry to estimate the odds of ovarian cancer survival given PFAS exposure
+- Presented at the Undergraduate Research Opportunities Program Symposium and the Public Health Honors Symposium
+- Received the Excellence in Writing award for the best written thesis and oral presentation
+
+**Research Assistant**, Cellular & Molecular Immunology Laboratory, Irvine, CA *(July 2018 – September 2020)*
+
+- Collaborated on development of a human herpes simplex virus vaccine and a pan-coronavirus SARS-CoV-2 vaccine using molecular biology techniques
+- Evaluated candidate vaccines and immunotherapeutic molecules against cancers
+- Trained new undergraduates in lab maintenance and experimental techniques (immunohistochemistry, PCR, Western blotting, ELISA, flow cytometry)
+- Co-authored three publications in *The Journal of Immunology*, *Journal of Virology*, and *Frontiers in Immunology*
+
+## Professional Experience
+
+**Course Coordinator**, UCI School of Medicine, Irvine, CA *(May 2021 – February 2022)*
+
+- Planned, organized, and set up *The Art of Doctoring*, an elective enrolling 73 fourth-year medical students
+- Prepared lecture materials and invited guest speakers to discuss the physician-patient relationship, expand students' communication skills, and promote compassion and empathy as core physician values
+- Served as the main contact for students and graded all student assignments
+
+**Partner Relations Intern**, Centers for Medicare & Medicaid Services, Washington, D.C. *(March 2021 – June 2021)*
+
+- Conducted health care communication and outreach work with special populations
+- Collaborated with nonprofit, faith-based, and community-based organizations to address COVID-19 vaccination and increase health care access for disadvantaged populations
+- Coordinated with external organizations to participate in "Weeks of Action" in April and May 2021, encouraging Americans to use the health insurance marketplace
+
+**Research Intern**, Center for Ethics and Morality, UC Irvine *(June 2019 – July 2019)*
+
+- Learned social science research methodology and data analysis skills
+- Completed a literature review and designed the methodology for a research project on liberalism and moral obligation
+
+**Volunteer**, Global Service Scholars Program, UC Irvine *(January 2019 – September 2019)*
+
+- Studied the science of compassion through psychology coursework and weekly seminars with faculty and students from the Department of Social Ecology
+- Traveled to rural Nepal for a one-month service-learning trip and volunteered on a communal, women-run farm
+- Created and participated in a documentary film on Nepali women's experiences overcoming sexual violence and domestic abuse, shown at the Newport Beach Film Festival
+
+**Private Tutor**, Left Coast Tutors, Irvine, CA *(October 2018 – March 2022)*: tutored high school and college students in chemistry, biology, and math
+
+**Child Life Volunteer**, UCI Medical Center, Orange, CA *(March 2018 – January 2020)*: offered bedside comfort and emotional support to pediatric patients, met their non-medical needs, and supervised pediatric patients and families in the neonatal intensive care unit (NICU)
+
+## Publications
+
+- Sasnal M, Jensen RM, **Mai UT**, Gold CA, Nassar AK, Korndorffer JR, Morris AM, Miller-Kuhlmann RK. Implementation and evaluation of a communication coaching program: a CFIR-informed qualitative analysis mapped to a logic model. *BMC Medical Education* (under revision).
+- Fischer AS, Fenning R, Robb JM, Slater A, **Mai U**, Lam T, Cruz JP, Billimek J, Shapiro J, Nguyen T, Haq C. Impact of moral distress on burn-out: a cross-sectional survey of front-line family physicians during the initial wave of the COVID-19 pandemic. *BMJ Open*. February 1, 2025. doi:10.1136/bmjopen-2024-089980.
+- Sasnal M, Jensen RM, **Mai UT**, Gold CA, Nassar AK, Korndorffer JR, Morris AM, Miller-Kuhlmann RK. Strategies to foster stakeholder engagement in residency coaching: a CFIR-informed qualitative study across diverse stakeholder groups. *Medical Education Online*. 2024;29(1). doi:10.1080/10872981.2024.2407656.
+- Kimura C, Liu Y, Crowder SE, Arbaugh C, **Mai UT**, Shankar K, Shelton A, Visser B, Kin C. Barriers and facilitators of surgical prehabilitation adherence from the patient perspective: a mixed method study. *Journal of Gastrointestinal Surgery*. 2023;27(11). doi:10.1007/s11605-023-05857-9.
+- Fischer A, Shapiro J, Nguyen T, Meckler G, Lam T, **Mai U**, Fenning R, Cruz JP, Haq C. Views from the trenches: California family physicians' challenges and resilience factors while providing patient care during the initial wave of COVID-19. *Qualitative Research in Medicine & Healthcare*. 2022;6(2). doi:10.4081/qrmh.2022.10296.
+- Coulon PG, Roy S, Prakash S, Srivastava R, Dhanushkodi N, Salazar S, Amezquita C, Nguyen L, Vahed H, Nguyen A, Warsi W, Ye C, Carlos-Cruz E, **Mai U**, BenMohamed L. Up-regulation of multiple CD8+ T cell exhaustion pathways is associated with recurrent ocular herpes simplex virus type 1 infection. *The Journal of Immunology*. 2020;205(2). doi:10.4049/jimmunol.2000131.
+- Srivastava R, Coulon PG, Prakash S, Dhanushkodi N, Roy S, Nguyen A, Alomari N, **Mai U**, Amezquita C, Ye C, Maillere B, BenMohamed L. Human epitopes identified from herpes simplex virus tegument protein VP11/12 (UL46) recall multi-functional effector memory CD4+ TEM cells in asymptomatic individuals and protect from ocular herpes infection and disease in "humanized" HLA-DR transgenic mice. *Journal of Virology*. 2020;94(7). doi:10.1128/JVI.01991-19.
+- BenMohamed L, Coulon PG, Dhanushkodi N, Prakash S, Srivastava R, Roy S, Alomari N, Nguyen A, Warsi W, Ye C, Carlos-Cruz E, **Mai U**, Cruel A, Ekmekciyan K, Pearlman E. NLRP3, NLRP12 and IFI16 inflammasomes induction and caspase-1 activation triggered by virulent HSV-1 strains are associated with severe corneal inflammatory herpetic disease. *Frontiers in Immunology*. 2019;10:1631. doi:10.3389/fimmu.2019.01631.
+
+## Presentations and Abstracts
+
+- **Mai UT**, Hanft-Robert S, Mösko M. Perceptions of Mental Wellness and Mental Health Services Among Vietnamese Migrants. 2023 Amsterdam Center for Health Communication Symposium; November 24, 2023; Amsterdam, Netherlands.
+- **Mai UT**, Kimura CS, Shankar K, Shelton A, Visser B, Kin C. Frailty and Adherence to the Physical Activity Component of Home-Based Prehabilitation in Gastrointestinal Surgery Patients. Pacific Coast Surgical Association 94th Annual Meeting; February 3–5, 2023; Monterey, California.
+- **Mai UT**, Dang N, Soroudi T, Lau V. Bridging Generations During a Pandemic: The Intergenerational Photo-Narrative Project. 12th Annual Western Michigan University Medical Humanities Conference; September 22–23, 2022; online.
+- Fischer A, Robb J, **Mai UT**, Fenning R, Lam TL, Cruz JP, Billimek J, Nguyen T, Shapiro J, Haq C. Moral Distress and Burnout Among California Family Medicine Physicians Working at the Frontlines During the COVID-19 Pandemic. American Public Health Association; October 21, 2021; online.
+- Lo KW, Lam T, Rasmussen A, Paguio M, Kundu A, Nguyen T, Shapiro J, Fischer A, Fenning R, **Mai U**, Cruz JP, Bray A, Meckler G, Slater A, Zavala L, Ngo D, Ly C, Mock K, Billimek J, Haq C. Capturing California Family Physicians' Experiences During the Early Phases of the COVID-19 Pandemic. American Academy of Family Physicians; July 29, 2021; online.
+- **Mai UT**, Vieira V. Assessing the Effect of Exposure to Perfluoroalkyl Substances on Ovarian Cancer Survival. UCI Undergraduate Research Opportunities Program; May 21, 2021; online.
+- Lo KW, Lam T, Rasmussen A, Paguio M, Kundu A, Nguyen T, Shapiro J, Fischer A, Fenning R, **Mai U**, Cruz JP, Bray A, Meckler G, Slater A, Zavala L, Ngo D, Ly C, Mock K, Billimek J, Haq C. Capturing California Family Physicians' Experiences During the Early Phases of the COVID-19 Pandemic. Society of Teachers of Family Medicine; May 3, 2021; online.
+
+## Extracurriculars and Leadership
+
+**Co-Founder and Editor-in-Chief**, *The Scribe at UCI*, UC Irvine *(September 2018 – June 2021)*
+
+- Created the first undergraduate medical humanities publication at UCI, focusing on students' mental and physical health experiences
+- Recruited and trained more than 26 editorial staff in reading and editing written works
+- Secured $2,179 in grant funding to host the Narrative Medicine Symposium and art exhibition, and $3,000 to print the first physical undergraduate medical humanities publication at UCI
+
+**President**, Healing Through Humanities at UCI, UC Irvine *(September 2017 – June 2021)*
+
+- Secured $6,000 in grant funding to establish and lead a volunteer program with hospice patients and older adults, resulting in two photo-narrative community exhibitions
+- Led the 2019 photojournalism project "Humans of Santa Ana," documenting health narratives of patients and staff at the UCI Family Health Center in Santa Ana, resulting in a photo-narrative community exhibition
+- Lectured more than 30 undergraduate students on medical humanities topics
+
+**Vice President**, Liberty in North Korea Rescue Team, ACHS/UC Irvine *(September 2015 – June 2021)*
+
+- Worked with North Korean refugees to share their experiences and challenge public perceptions by humanizing and depoliticizing the North Korean humanitarian crisis
+- Organized weekly awareness presentations, Refugee Awareness Week, and Refugee Awareness Night with refugee guest speakers
+- Raised more than $6,000 for two LiNK refugee rescue missions
+
+**Director-General**, Model United Nations Conference Team, UC Irvine *(October 2017 – June 2021)*
+
+- Trained more than 30 new directors in committee management and Model UN parliamentary procedure, and guided them through writing a research paper
+- Coordinated four high school conferences and one collegiate conference, each with 300–800 attendees
+- Directed three UN committees (UNHCR, SPECPOL, SOCHUM), each with more than 100 high school students, and taught speech, debate, and resolution writing
+
+**Team Member**, Model United Nations Travel Team, UC Irvine *(Winter 2018 – June 2021)*: helped new members develop public speaking, debate, and diplomacy skills; drafted UN resolutions; competed in local and national conferences
+
+**Journal Club Leader**, UCI Global Health Research, Education and Translation *(January 2018 – June 2019)*: led weekly discussions of global health research, hosted journal clubs with UCI faculty, and organized the end-of-year Global/Public Health Symposium
+
+**Volunteer**, Global Medical Brigades – Ghana *(March 2018 – June 2018)*: gathered medical supplies and raised $600 for clinic costs; hosted two health clinics and pharmacies in rural Ghana serving more than 1,000 people; provided community health education
+
+## Grants and Scholarships
+
+- **Undergraduate Research Opportunities Program** *(December 2020)*: $450 for the epidemiology project "Assessing the Effect of Exposure to Perfluoroalkyl Substances on Ovarian Cancer Survival"
+- **UCI XIV Dalai Lama Endowed Scholarship** *(August 2020)*: $10,000 merit scholarship for advancing the values of compassion, contemplation, courage, interconnectedness, collaboration, humility, and service; plus $6,000 in project funding to launch the Intergenerational Photo-Narrative Project, a volunteer program connecting UCI undergraduates, older adults, and hospice patients that culminated in an exhibition and print publication
+- **VPASC President Scholar and Humanitarian Award** *(August 2020)*: $1,000 from the Vietnamese Physician Association of Southern California for scholastic excellence, leadership, and community contributions
+- **Dr. John Miltner Irvine Health Foundation Endowed Scholarship** *(July 2020)*: $5,000 in the Emerging Leaders category
+- **UCI Illuminations Grant** *(July 2020)*: $2,179 to host the end-of-year symposium for the medical humanities publication *The Scribe*
+- **UCEAP Promise Award – Thailand** *(April 2020)*: $2,000 study abroad scholarship (program cancelled due to COVID-19)

@@ -1,0 +1,47 @@
+---
+title: "Uyen Mai"
+image: profile.jpg
+image-alt: "Photo of Uyen Mai"
+about:
+  template: trestles
+  image-shape: round
+  image-width: 14em
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:utm@case.edu
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/umai/
+    - icon: file-earmark-arrow-down
+      text: Download CV
+      href: cv.pdf
+---
+
+## Welcome
+
+I'm an MD/PhD student in the Medical Scientist Training Program at Case Western Reserve University, now in the PhD phase of my training. My work sits where clinical medicine meets population health. I study how structural conditions such as poverty, neighborhood environment, and access to care shape health, and how community-based programs can address them.
+
+## What I'm Working on Now
+
+- **Community care coordination.** Evaluating a community health worker–based Pathways HUB in Northeast Ohio that connects clients to services for health-related social needs, and asking whether that coordination improves health care use and health outcomes.
+- **Implementation science.** Studying how the Ask-Advise-Connect tobacco cessation intervention is adapted for food pantries, using the RE-AIM and FRAME-IS frameworks.
+- **Spatial epidemiology.** Comparing health outcomes between persistent-poverty and other census tracts and counties across the United States, using CDC PLACES data.
+
+## Education
+
+**Case Western Reserve University School of Medicine** *(2024 – present)*\
+MD (expected 2032) and PhD (expected 2030), Medical Scientist Training Program
+
+**University of California, Irvine** *(2017 – 2021)*\
+BS in Public Health, Honors in Public Health, *cum laude*\
+Minors in International Studies and Philosophy
+
+## Selected Honors
+
+- **Fulbright U.S. Student Program**, Study/Research Award for an independent research project in Hamburg, Germany (2022)
+- **Chancellor's Award of Distinction**, UC Irvine, one of 53 recipients among more than 10,000 graduating students (2021)
+- **Delta Omega Honorary Society in Public Health**, Delta Rho chapter (2021)
+- **Excellence in Writing Award**, UC Irvine Program in Public Health (2021)
+
+See [Research & Experience](research.qmd) and [Publications](publications.qmd) for more, or [download my CV](cv.pdf).
