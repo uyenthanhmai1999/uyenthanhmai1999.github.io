@@ -11,6 +11,7 @@ project:
 
 website:
   title: "Uyen Mai"
+  favicon: favicon.png
   description: "MD/PhD student at Case Western Reserve University working at the intersection of clinical medicine and population health."
   navbar:
     left:
