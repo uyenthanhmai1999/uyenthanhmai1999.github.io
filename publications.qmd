@@ -4,7 +4,7 @@ title: "Publications"
 
 ## Peer-Reviewed Articles
 
-1. Sasnal M, Jensen RM, **Mai UT**, Gold CA, Nassar AK, Korndorffer JR, Morris AM, Miller-Kuhlmann RK. Implementation and evaluation of a communication coaching program: a CFIR-informed qualitative analysis mapped to a logic model. *BMC Medical Education* (under revision).
+1. Jensen RM, Sasnal M, **Mai UT**, Korndorffer JR Jr, Miller-Kuhlmann RK, Morris AM, Nassar AK, Gold CA. Implementation and evaluation of a communication coaching program: a CFIR-informed qualitative analysis mapped onto a logic model. *BMC Medical Education*. 2025;25(1):613. [doi:10.1186/s12909-025-07188-6](https://doi.org/10.1186/s12909-025-07188-6)
 
 2. Fischer AS, Fenning R, Robb JM, Slater A, **Mai U**, Lam T, Cruz JP, Billimek J, Shapiro J, Nguyen T, Haq C. Impact of moral distress on burn-out: a cross-sectional survey of front-line family physicians during the initial wave of the COVID-19 pandemic. *BMJ Open*. 2025. [doi:10.1136/bmjopen-2024-089980](https://doi.org/10.1136/bmjopen-2024-089980)
 
